@@ -1,5 +1,5 @@
 ###########################################################
-with open(r"C:\Ram_local_files\advent_of_code\puzzle_2\input.txt") as f:
+with open(r".\puzzle_2\input.txt") as f:
     lines = f.read().splitlines()
 
 ###########################################################
